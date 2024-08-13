@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -12,7 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +39,7 @@
   to {
     transform: rotate(360deg);
   }
+} */
+span.relative:hover span.absolute {
+  width: 100%;
 }
