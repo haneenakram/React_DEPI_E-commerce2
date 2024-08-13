@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_DEPI_E-commerce2/static/css/main.521e5fa8.css",
+    "main.js": "/React_DEPI_E-commerce2/static/js/main.1bb35ae3.js",
+    "static/js/453.70c0e215.chunk.js": "/React_DEPI_E-commerce2/static/js/453.70c0e215.chunk.js",
+    "index.html": "/React_DEPI_E-commerce2/index.html",
+    "main.521e5fa8.css.map": "/React_DEPI_E-commerce2/static/css/main.521e5fa8.css.map",
+    "main.1bb35ae3.js.map": "/React_DEPI_E-commerce2/static/js/main.1bb35ae3.js.map",
+    "453.70c0e215.chunk.js.map": "/React_DEPI_E-commerce2/static/js/453.70c0e215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521e5fa8.css",
+    "static/js/main.1bb35ae3.js"
+  ]
+}
